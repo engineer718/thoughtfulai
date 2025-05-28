@@ -4,6 +4,8 @@ A simple AI-powered customer support assistant for Thoughtful AI. It uses hardco
 
 Built with Python and Streamlit for a clean and interactive web interface.
 
+![image](https://github.com/user-attachments/assets/a4395e29-8df4-4fb3-a005-19fd1015376e)
+
 ---
 
 ## 🧠 Features
